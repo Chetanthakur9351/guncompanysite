@@ -1,2 +1,2 @@
 # guncompanysite
-This site is made with html | CSS and JS
+This site is made with HTML, CSS, & JS
